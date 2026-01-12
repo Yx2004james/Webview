@@ -1,0 +1,10 @@
+^D:\953464\WEBVIEW\BUILD\WINDOWS\X64\CMAKEFILES\BCA0E2DDDDF793A8ED9C06394C0D6D3C\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

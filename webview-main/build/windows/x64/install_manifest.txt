@@ -1,0 +1,11 @@
+D:/953464/webview/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/953464/webview/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/assets/index.html
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
+D:/953464/webview/build/windows/x64/runner/Debug/data/flutter_assets/shaders/stretch_effect.frag

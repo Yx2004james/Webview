@@ -1,0 +1,10 @@
+^D:\953464\WEBVIEW\BUILD\WINDOWS\X64\CMAKEFILES\BCA0E2DDDDF793A8ED9C06394C0D6D3C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/953464/webview/windows -BD:/953464/webview/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/953464/webview/build/windows/x64/webview.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
